@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Tiger Hoodie",
+    "price": "250",
+    "priceNum": 250,
+    "image": "/sample-hoodie.jpg",
+    "slug": "tiger-hoodie",
+    "description": "Premium cotton hoodie with integrated KJ tiger design."
+  },
+  {
+    "id": "2",
+    "name": "KJ Tee",
+    "price": "90",
+    "priceNum": 90,
+    "image": "/sample-tee.jpg",
+    "slug": "kj-tee",
+    "description": "Classic KJ tee with minimal logo."
+  },
+  {
+    "id": "3",
+    "name": "KJ Cap",
+    "price": "60",
+    "priceNum": 60,
+    "image": "/sample-cap.jpg",
+    "slug": "kj-cap",
+    "description": "Adjustable cap with embroidered minimal logo."
+  }
+]
